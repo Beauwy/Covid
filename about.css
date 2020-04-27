@@ -1,0 +1,17 @@
+.container{
+    margin-top: 10%;
+}
+
+.profile{
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+.photo{
+    text-align: center;
+}
+
+.char{
+    margin-top: 30px;
+    text-align: center;
+}
